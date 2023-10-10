@@ -44,3 +44,19 @@
 	color: blue;
 	font-weight: 600;
 }
+
+.home_button {
+  background-color: #6BB1CB;
+  font-family: 'Segoe UI';
+  padding: 5px;
+  border-radius: 60%;
+  color: white;
+  box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.5);
+  cursor: pointer;
+}
+
+.home_button:hover {
+  background-color: white;
+  color: #6BB1CB;
+  font-weight: 600;
+}

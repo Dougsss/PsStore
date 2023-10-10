@@ -1,0 +1,11 @@
+.sale_container {
+  width: 90%;
+	margin: auto;
+	padding-top: 60px;
+  padding-bottom:20px;
+	display: flex;
+
+	justify-content: space-around;
+	align-items: baseline;
+	flex-wrap: wrap;
+}
